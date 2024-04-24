@@ -1,5 +1,5 @@
-<H3>NAME: SHALINI K</H3>
-<H3>REGISTER NO:212222240095</H3>
+<H3>NAME: GANESH R</H3>
+<H3>REGISTER NO: 212222240029</H3>
 <H3>EX NO: 7</H3>
 <H3>DATE: 24.04.24</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
@@ -22,8 +22,8 @@ Step 5: Construct the main program to read the paragraph  and perform text summa
 ## Program:
 
 ```py
-DEVELOPED BY: SHALINI K
-REGISTER NUMBER: 212222240095
+DEVELOPED BY: GANESH R
+REGISTER NUMBER: 212222240029
 !pip install nltk
 import nltk
 from nltk.corpus import stopwords
